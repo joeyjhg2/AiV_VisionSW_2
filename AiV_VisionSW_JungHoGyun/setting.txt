@@ -1,0 +1,3 @@
+img_path=Lenna_gray.png
+kernel=3
+resultimg_path=/ResultImg
