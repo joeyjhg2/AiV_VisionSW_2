@@ -1,0 +1,6 @@
+".vs/" 
+"opencv/build/" 
+"*.dll" 
+"*.pdb" 
+"*.ipch" 
+"*.pch" 
